@@ -10,7 +10,7 @@ Cultura Digital
 
 L'objectiu d'aquest assaig és explorar com el programari s'ha convertit en el motor principal que configura la cultura contemporània.
 
-A través de dos casos d'estudi, analitzaré conceptes: hibridació i deep remixability, demostrant com el codi informàtic permet la fusió de mitjans que abans eren totalment independents.
+A través de dos casos d'estudi, analitzaré el concepte d'hibridació, demostrant com el codi informàtic permet la fusió de mitjans que abans eren totalment independents.
 
 ---
 
