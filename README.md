@@ -80,7 +80,7 @@ Manovich, L. (2013). El software toma el mando. Editorial UOC.
   
 ---
 
-## Declaració d'ús d'intel·ligència artificial
+## Ús d'intel·ligència artificial
 
 En la preparació d'aquest assaig he utilitzat l'assistència d'IA de manera limitada per a:
 
