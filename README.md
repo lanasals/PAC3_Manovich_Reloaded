@@ -87,10 +87,10 @@ Manovich, L. (2013). El software toma el mando. Editorial UOC.
 
 ## Declaració d'ús d'intel·ligència artificial
 
-D'acord amb les indicacions de l'enunciat de la PAC, declaro que en la preparació d'aquest assaig he emprat assistència d'intel·ligència artificial de manera limitada, exclusivament per a:
+En la preparació d'aquest assaig he utilitzat l'assistència d'IA de manera limitada per a:
 
-- estructurar i organitzar les idees prèvies,
-- revisar la correcció ortogràfica i sintàctica,
-- proposar connexions amb conceptes específics de la bibliografia recomanada.
+- estructurar i organitzar les idees prèvies
+- revisar la correcció ortogràfica
+- proposar connexions amb conceptes específics de la bibliografia recomanada
 
-La selecció dels casos d'estudi, la interpretació personal, els exemples concrets i la redacció final del text són pròpies. No s'ha utilitzat IA per generar el contingut elaborat ni per redactar resums automàtics, seguint la indicació de l'enunciat de la PAC.
+La selecció dels casos d'estudi, la interpretació personal, els exemples concrets i la redacció final del text són meves.
