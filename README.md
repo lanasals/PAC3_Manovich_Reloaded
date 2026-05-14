@@ -44,7 +44,7 @@ Notion exemplifica així com el programari "pren el comandament". Hereta l'ADN d
 
 ##teamLab
 
-![teamLab Drawing on the Water Surface](https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/fhiw4GWA5aqKHGQT72DUS7/width=1920,quality=80)
+![teamLab Drawing on the Water Surface](https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/fhiw4GWA5aqKHGQT72DUS7/width=1800,quality=80)
 
 teamLab és un col·lectiu d'art digital internacional fundat a Tòquio l'any 2001. Està format per un grup interdisciplinari de professionals: artistes, programadors, enginyers, animadors de gràfics per ordinador, matemàtics i arquitectes. El seu objectiu principal és explorar la confluència entre l'art, la ciència, la tecnologia i el món natural. Han revolucionat l'art contemporani amb els seus museus i exposicions arreu del món. La seva filosofia es basa en eliminar les fronteres entre l'obra d'art i l'espectador. En les seves obres converteixen el públic en una part activa de la peça, és a dir, són els moviments del públic els que transformen l'entorn visual en temps real.
 
