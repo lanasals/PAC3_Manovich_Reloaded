@@ -82,7 +82,7 @@ Manovich, L. (2013). El software toma el mando. Editorial UOC.
 
 ## Ús d'intel·ligència artificial
 
-En la preparació d'aquest assaig he utilitzat l'assistència d'IA de manera limitada per a:
+En la preparació d'aquest assaig he utilitzat l'assistència d'IA (Google Gemini) de manera limitada per a:
 
 - estructurar i organitzar les idees prèvies
 - revisar la correcció ortogràfica
