@@ -1,4 +1,4 @@
-# PAC3 — Manovich Reloaded
+# PAC3
 
 Lola Sala
 
