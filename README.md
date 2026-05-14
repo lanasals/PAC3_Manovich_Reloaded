@@ -89,3 +89,7 @@ En la preparació d'aquest assaig he utilitzat l'assistència d'IA de manera lim
 - proposar connexions amb conceptes específics de la bibliografia recomanada
 
 La selecció dels casos d'estudi, la interpretació personal, els exemples concrets i la redacció final del text són meves.
+
+---
+
+**Llicència:** [CC BY-SA 4.0] (https://creativecommons.org/licenses/by-sa/4.0/deed.ca).
