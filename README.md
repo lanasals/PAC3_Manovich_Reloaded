@@ -36,7 +36,7 @@ Notion exemplifica així com el programari "pren el comandament". Hereta l'ADN d
 
 *Recursos:*
 - [Notion — lloc oficial](https://www.notion.so)
-- [Notion: What are blocks?](https://www.notion.so/help/what-are-blocks)
+- [Notion: What is a block?](https://www.notion.com/help/what-is-a-block)
 - [Notion AI](https://www.notion.so/product/ai)
 
 ---
@@ -44,8 +44,7 @@ Notion exemplifica així com el programari "pren el comandament". Hereta l'ADN d
 
 ##teamLab
 
-![teamLab Borderless](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tokyo_Mori_Building_Digital_Art_Museum_-_TeamLab_Borderless_%2845805049975%29.jpg/800px-Tokyo_Mori_Building_Digital_Art_Museum_-_TeamLab_Borderless_%2845805049975%29.jpg)
-> Imatge: instal·lació al teamLab Borderless, Tòquio. Font: Wikimedia Commons.
+![teamLab Drawing on the Water Surface](https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/fhiw4GWA5aqKHGQT72DUS7/width=1920,quality=80)
 
 teamLab és un col·lectiu d'art digital internacional fundat a Tòquio l'any 2001. Està format per un grup interdisciplinari de professionals: artistes, programadors, enginyers, animadors de gràfics per ordinador, matemàtics i arquitectes. El seu objectiu principal és explorar la confluència entre l'art, la ciència, la tecnologia i el món natural. Han revolucionat l'art contemporani amb els seus museus i exposicions arreu del món. La seva filosofia es basa en eliminar les fronteres entre l'obra d'art i l'espectador. En les seves obres converteixen el públic en una part activa de la peça, és a dir, són els moviments del públic els que transformen l'entorn visual en temps real.
 
@@ -53,7 +52,7 @@ Un bon exemple és l’obra *Drawing on the Water Surface Created by the Dance o
 
 Aquesta interacció es basa en l'art generatiu. L'obra es crea de manera única i irrepetible per a cada espectador. El programari calcula les trajectòries dels peixos constantment, si no hi hagués ningú a la sala, els peixos nedarien de manera tranquil·la i l'obra seria diferent. El cos és el motor que genera el contingut visual.
 
-Obres com aquesta són un exemple clar del que Lev Manovich defineix al seu llibre “El software toma el mando” (2013) com a “hibridació” i “deep remixability”. Segons l'autor, la hibridació és la fusió estructural de les propietats de diversos mitjans. A teamLab el programari permet que llenguatges diferents es barregin en un mateix entorn. Dades, moviment i gràfics comparteixen un mateix codi. Aquesta unió crea un objecte cultural nou que ja no es pot separar en les seves parts originals. La dansa i la tecnologia esdevenen un element híbrid.
+Obres com aquesta són un exemple clar del que Lev Manovich defineix al seu llibre “El software toma el mando” (2013) com a “hibridació” i “*deep remixability*”. Segons l'autor, la hibridació és la fusió estructural de les propietats de diversos mitjans. A teamLab el programari permet que llenguatges diferents es barregin en un mateix entorn. Dades, moviment i gràfics comparteixen un mateix codi. Aquesta unió crea un objecte cultural nou que ja no es pot separar en les seves parts originals. La dansa i la tecnologia esdevenen un element híbrid.
 
 > "Los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos." — Manovich (2013, cap. 2)
 
@@ -62,7 +61,7 @@ Aquesta fusió és possible gràcies al rol del programari com a traductor que t
 *Recursos:*
 - [teamLab — lloc oficial](https://www.teamlab.art)
 - [Drawing on the Water Surface Created by the Dance of Koi and People — vídeo oficial](https://www.teamlab.art/w/koi_and_people/)
-- [teamLab Borderless Tokyo](https://www.teamlab.art/e/borderless-azabudai/)
+- [teamLab Borderless Tokyo](https://www.teamlab.art/e/tokyo/)
 
 ---
 
@@ -79,10 +78,10 @@ Manovich, L. (2013). El software toma el mando. Editorial UOC.
 ## Recursos consultats
 
 - Notion Labs. (s. d.). Notion — Your connected workspace. https://www.notion.so
-- Notion Labs. (s. d.). What are blocks? https://www.notion.so/help/what-are-blocks
+- Notion Labs. (s. d.). What is a block? https://www.notion.com/help/what-is-a-block
 - teamLab. (s. d.). teamLab Official Website. https://www.teamlab.art
 - teamLab. (s. d.). Drawing on the Water Surface Created by the Dance of Koi and People. https://www.teamlab.art/w/koi_and_people/
-
+  
 ---
 
 ## Declaració d'ús d'intel·ligència artificial
