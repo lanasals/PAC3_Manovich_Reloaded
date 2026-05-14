@@ -1,7 +1,9 @@
 # PAC3 — Manovich Reloaded
 
 Lola Sala
+
 Grau en Multimèdia, UOC
+
 Cultura Digital
 
 ---
@@ -67,11 +69,11 @@ En definitiva, tant en l'art generatiu com en els espais de treball modulars, la
 
 ---
 
-## Referències bibliogràfiques
+## Bibliografía 
 
 Manovich, L. (2013). El software toma el mando. Editorial UOC.
 
-## Recursos consultats
+## Referències
 
 - Notion Labs. (s. d.). Notion — Your connected workspace. https://www.notion.so
 - Notion Labs. (s. d.). What is a block? https://www.notion.com/help/what-is-a-block
