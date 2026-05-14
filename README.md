@@ -8,27 +8,25 @@ Cultura Digital
 
 ## Introducció
 
-Aquest assaig presenta dos casos contemporanis d'*hibridació de mitjans* en el sentit que Lev Manovich desenvolupa a El software toma el mando (2013). Cap dels dos exemples apareix al llibre, però tots dos il·lustren la idea central de Manovich: el programari ha deixat de ser una eina i s'ha convertit en un metamitjà on tradicions mediàtiques prèviament autònomes es fusionen i donen peu a espècies noves.
+L'objectiu d'aquest assaig és explorar com el programari s'ha convertit en el motor principal que configura la cultura contemporània.
 
-El primer cas, *Notion, situa la hibridació en l'àmbit de la productivitat i l'organització del coneixement. El segon, **teamLab*, la trasllada a l'art immersiu. Els uneix un mateix mecanisme: la confluència profunda de mitjans dins un substrat computacional comú.
+A través de dos casos d'estudi, analitzaré conceptes: hibridació i deep remixability, demostrant com el codi informàtic permet la fusió de mitjans que abans eren totalment independents.
 
 ---
 
-## 1. Notion: l'aplicació camaleó on cada bloc és una espècie diferent
+## Notion
 
-![Notion logo](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png)
+![Notion logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Notion_app_logo.png/120px-Notion_app_logo.png)
 
-Quan Manovich (2013) descriu l'ordinador com un univers on les aplicacions muten i evolucionen, sembla que estigui anticipant Notion. L'app, popular a TikTok per organitzar apunts i projectes, es presenta com un all-in-one workspace. Però mirada amb les "ulleres de Manovich", no és simplement una caixa d'eines. És un cas clar d'*hibridació*.
+Quan Manovich descriu l'ordinador com un univers on les aplicacions muten i evolucionen, sembla que estigui anticipant Notion. Aquesta aplicació, llançada el 2016, es presenta sota la promesa d'un *all-in-one workspace*: un sol entorn on prendre notes, gestionar projectes, construir wikis o portar bases de dades. Notion no és simplement una caixa d'eines, és un altre cas clar d'*hibridació*.
 
-Pensem en un document de Word amb un vídeo de YouTube incrustat. Això és multimèdia clàssica: cada element conserva la seva interfície i va per separat. A Notion passa el contrari. Les fronteres entre un text, una wiki, un calendari o un full de càlcul desapareixen. Tot conviu dins una mateixa gramàtica.
+Per exemple, quan en un document de Word incrustem un vídeo de YouTube. Això és multimèdia clàssica: cada element conserva la seva interfície i va per separat. A Notion passa el contrari. Les fronteres entre un text i un calendari desapareixen. Tot conviu dins una mateixa gramàtica.
 
-La clau és el *bloc. A Notion tot és un bloc: un paràgraf, una imatge, una taula, fins i tot una pàgina sencera niada dins una altra. Cada bloc pot mutar i convertir-se en un altre. És com construir amb peces de Lego on cada peça canvia de forma. Aquest funcionament encaixa amb la **modularitat cultural* de Manovich: l'objecte digital esdevé una aglomeració de funcions extretes de tradicions diferents.
+Notion es basa en un sistema on cada element és un "bloc" editable: un paràgraf, una imatge, una taula... Cada bloc pot mutar i convertir-se en un altre. Aquest funcionament encaixa amb la definició de *modularitat cultural* de Manovich: l'objecte digital esdevé una aglomeració de funcions extretes de tradicions diferents.
 
 > "Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles." — Manovich (2013, cap. 2)
 
-On es nota més la hibridació és en les *bases de dades. Imagina una llista de llibres per llegir. La puc visualitzar com una taula, com un tauler kanban a l'estil Trello, com un calendari o com una galeria a l'estil Pinterest. Les dades són les mateixes; el que canvia és la interfície. És el que Manovich anomena *"forma variable"**: totes les formes possibles es representen com a variables que poden canviar contínuament. No exporto entre programes; ho tinc tot alhora, al mateix lloc.
-
-Aquí apareix també el que Manovich anomena *entrecreuament* o crossover. Tècniques que abans eren exclusives d'un mitjà ara salten als altres. Puc afegir una propietat "data" (heretada del calendari) a una entrada de blog. Puc fer servir una fórmula d'Excel perquè un text canviï sol. Aquestes barreges no eren concebibles abans que tots aquests "gens" mediàtics convisquessin en un mateix entorn de programari.
+On podem notar més la hibridació en aquest cas és en les bases de dades. Imagina una llista de llibres per llegir. La puc visualitzar com una taula, com un calendari o com una galeria a l'estil Pinterest. Les dades són les mateixes; el que canvia és la interfície. És el que Manovich anomena *"forma variable"*: totes les formes possibles es representen com a variables que poden canviar contínuament. No s'exporta entre programes, es té tot al mateix lloc.
 
 L'arribada de *Notion AI* hi afegeix una capa final. Escric la barra "/" i la intel·ligència artificial pot resumir, traduir o reescriure qualsevol bloc. El text deixa de ser un objecte estàtic i passa a ser una dada manipulable algorítmicament. És el que Manovich anomena *remesclabilitat profunda* (deep remixability): la fase del metamitjà on les tècniques s'apliquen lliurement més enllà del seu mitjà d'origen.
 
@@ -44,7 +42,7 @@ Notion exemplifica així com el programari "pren el comandament". Hereta l'ADN d
 
 ## teamLab
 
-![teamLab Drawing on the Water Surface](https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/fhiw4GWA5aqKHGQT72DUS7/width=1000,quality=80)
+![teamLab Drawing on the Water Surface](https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/fhiw4GWA5aqKHGQT72DUS7/width=400,quality=80)
 
 teamLab és un col·lectiu d'art digital internacional fundat a Tòquio l'any 2001. Està format per un grup interdisciplinari de professionals: artistes, programadors, enginyers, animadors de gràfics per ordinador, matemàtics i arquitectes. El seu objectiu principal és explorar la confluència entre l'art, la ciència, la tecnologia i el món natural. Han revolucionat l'art contemporani amb els seus museus i exposicions arreu del món. La seva filosofia es basa en eliminar les fronteres entre l'obra d'art i l'espectador. En les seves obres converteixen el públic en una part activa de la peça, és a dir, són els moviments del públic els que transformen l'entorn visual en temps real.
 
