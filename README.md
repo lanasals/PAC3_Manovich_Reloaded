@@ -30,8 +30,6 @@ On podem notar més la hibridació en aquest cas és en les bases de dades. Imag
 
 L'arribada de *Notion AI* hi afegeix una capa final. Escric la barra "/" i la intel·ligència artificial pot resumir, traduir o reescriure qualsevol bloc. El text deixa de ser un objecte estàtic i passa a ser una dada manipulable algorítmicament. És el que Manovich anomena *remesclabilitat profunda* (deep remixability): la fase del metamitjà on les tècniques s'apliquen lliurement més enllà del seu mitjà d'origen.
 
-Notion exemplifica així com el programari "pren el comandament". Hereta l'ADN de les apps tradicionals, el barreja, el fa mutar. El resultat ja no és un document, ni una carpeta, ni un full de càlcul. És una espècie nova: una manera inèdita d'organitzar el coneixement en l'era del programari.
-
 *Recursos:*
 - [Notion — lloc oficial](https://www.notion.so)
 - [Notion: What is a block?](https://www.notion.com/help/what-is-a-block)
